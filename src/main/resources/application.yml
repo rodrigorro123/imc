@@ -1,0 +1,8 @@
+# Server
+server:
+  port: 5000
+  
+# Spring
+spring:
+  application:
+    name: javaBasico
